@@ -1,4 +1,4 @@
 C语言学习记录-空心等腰三角形
 ==========
-怎么传图片啊??<br>
+![](https://github.com/DTSSR/C-Practice-LsoscelesTriangle/blob/master/0.png)
 * 然鹅....并没有什么卵用..<br>
