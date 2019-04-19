@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
 	int a,i,j;
-	printf("ÊäÈëÈı½ÇĞÎĞĞÊı:");
+	printf("è¾“å…¥ä¸‰è§’å½¢è¡Œæ•°:");
 	scanf("%d",&a);
 	for(i=0;i<=a-2;i++){
 		printf(" ");
@@ -24,6 +24,5 @@ int main(){
 	for(i=1; i<=2*a-1; i++){
 	printf("-");
 	}
-	printf("\nÍõÉÙÆæ ½¨»·-2 201701041526\n"); 
 }
 
